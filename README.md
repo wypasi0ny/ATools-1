@@ -22,9 +22,11 @@ To install ATools Executor, follow these steps:
 • Launch: Open ATools Executor and familiarize yourself with the interface.
 
 ## Usage
-• Load Script: Click on the ‘Load Script’ button to select your Lua script file.
+• Load Script: Click on the ‘Load File’ button to select your Lua script file.
 
-• Inject Script: Once the script is loaded, click on the ‘Attach’ button to execute the script within the connected Roblox game.
+• Inject: Once you started roblox, click on the ‘Attach’ button to attach!.
+
+• Run Script: If you injected your program, click on ‘Run’ button to execute script!
 
 ## Contributing
 We welcome contributions! Please follow these guidelines:
